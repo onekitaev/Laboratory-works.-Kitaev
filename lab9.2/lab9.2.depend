@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1587946956 source:c:\users\win8\desktop\язык c\lab9.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+

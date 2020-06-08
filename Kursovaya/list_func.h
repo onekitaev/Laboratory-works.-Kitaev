@@ -1,0 +1,30 @@
+#include "struct.h"
+
+Head *create_head();
+void add_first_node(Head *head , Node *node);
+void filling(Head *head, Node *p1, Node *p);
+void free_list(Head *head);
+void decrease_id(Head *head, Node *node);
+void free_del(Node *tmp);
+void increase_id(Head *head, Node *node);
+void scan(Node *temp);
+Node *get_node();
+Node *create_node(Head *q);
+void malloc_node(Node *temp);
+int sort_by_name(Node *node);
+int sort_by_inter_org(Node *node);
+int sort_by_territory(Node *node);
+int sort_by_population(Node *node);
+int sort_by_cap_popul(Node *node);
+int sort_by_year(Node *node);
+int sort_by_GDP(Node *node);
+void sort_cards(Head *list, int c);
+int (*sort[7])(Node *node);
+void delete_node(Head *head, Node *node);
+Head* find_by_terr(Head *head);
+Head* find_by_popul(Head *head);
+Head* find_by_cap_popul(Head *head);
+Head* find_by_year(Head *head);
+Head* find_by_GDP(Head *head);
+Head* find_by_name(Head *head);
+Head* find_by_inter_org(Head *head);

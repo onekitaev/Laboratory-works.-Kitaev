@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1591550030 source:c:\users\win8\desktop\язык c\kursovaya\list_func.c
+	"list_func.h"
+
+1591549447 c:\users\win8\desktop\язык c\kursovaya\list_func.h
+	"struct.h"
+
+1591597804 c:\users\win8\desktop\язык c\kursovaya\struct.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1591547804 source:c:\users\win8\desktop\язык c\kursovaya\file_func.c
+	"file_func.h"
+
+1591547804 c:\users\win8\desktop\язык c\kursovaya\file_func.h
+	"struct.h"
+	"list_func.h"
+	"output.h"
+
+1591541024 c:\users\win8\desktop\язык c\kursovaya\output.h
+	"struct.h"
+	"file_func.h"
+
+1591522614 source:c:\users\win8\desktop\язык c\kursovaya\main.c
+	"menu.h"
+
+1591537077 c:\users\win8\desktop\язык c\kursovaya\menu.h
+	"struct.h"
+	"output.h"
+	"list_func.h"
+	"file_func.h"
+
+1591549499 source:c:\users\win8\desktop\язык c\kursovaya\menu.c
+	"menu.h"
+
+1591549103 source:c:\users\win8\desktop\язык c\kursovaya\output.c
+	"output.h"
+

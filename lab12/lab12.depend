@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1590109758 source:c:\users\win8\desktop\язык c\lab11\main.c
+	"struct.h"
+	"func.h"
+	"user_menu.h"
+
+1590358021 c:\users\win8\desktop\язык c\lab11\struct.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1590173783 c:\users\win8\desktop\язык c\lab11\func.h
+	"struct.h"
+
+1590103570 c:\users\win8\desktop\язык c\lab11\user_menu.h
+	"struct.h"
+	"func.h"
+
+1590364247 source:c:\users\win8\desktop\язык c\lab11\func.c
+	"func.h"
+
+1590365425 source:c:\users\win8\desktop\язык c\lab11\user_menu.c
+	"user_menu.h"
+
+1590614799 source:c:\users\win8\desktop\язык c\lab12\func.c
+	"func.h"
+
+1590611905 c:\users\win8\desktop\язык c\lab12\func.h
+	"struct.h"
+
+1590358021 c:\users\win8\desktop\язык c\lab12\struct.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1590592146 source:c:\users\win8\desktop\язык c\lab12\main.c
+	"struct.h"
+	"func.h"
+	"user_menu.h"
+
+1590619877 c:\users\win8\desktop\язык c\lab12\user_menu.h
+	"struct.h"
+	"func.h"
+
+1590623422 source:c:\users\win8\desktop\язык c\lab12\user_menu.c
+	"user_menu.h"
+
